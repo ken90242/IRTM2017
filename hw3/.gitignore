@@ -1,0 +1,6 @@
+*.ipynb
+*.swp
+.ipynb_checkpoints/
+IRTM/
+.DS_Store/
+__pycache__/
